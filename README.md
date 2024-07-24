@@ -3,7 +3,7 @@ Micro proyecto del modulo uno : Desarrollo de proyectos IA
 
 En el presente proyecto se despliega una aplicación que detecta tres tipos de Neumonía. Para ejecutar el proyecto se deben seguir los siguientes pasos:
 
-**1. Descargar el repositorio**
+**1. Descargar el repositorio:**
 Todos los archivos de este repositorio deben quedar en la misma carpeta. También debe quedar el modelo preentrenado que se encunetra en el siguiente link:
 
 **2. Construción del Contenedor con Docker:**
@@ -25,7 +25,7 @@ python3 main.py
 
 Con ayuda de Xming se debe desplegar la ventana de la aplicación.
 
-**5. Selección Imagenes de prueba**
+**5. Selección Imagenes de prueba:**
 En la ventana de la aplicación, en el boton cargar, se despliega el buscador de archivos, se debe ingresar a:
 
 home -> src
